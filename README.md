@@ -1,7 +1,7 @@
 # JS_Data_Structures_and_Algorithms
 
 
-# Use the Big O Notation, Big Omega and Big Theta tools to analyse different algorithms and data structures.
+Use the Big O Notation, Big Omega and Big Theta tools to analyse different algorithms and data structures.
 Learn 8 different sorting algorithms and understand their timing, characteristics and advantages and disadvantages.
 Use three basic sorting algorithms, including Bubble Sort, Insertion sort and Selection sort.
 Use 3 advanced sorting algorithms, including Merge sort, Heap sort, Quicksort.
